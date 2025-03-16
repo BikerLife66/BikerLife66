@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...python as a beginner
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...him her
+- 😄 Pronouns: ...him he
 - ⚡ Fun fact: ...riding my harley keeps me out of prison
 
 <!---
